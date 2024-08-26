@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: dbc-desafio-java
+
+external:
+  dbc:
+    base-url: https://rgr3viiqdl8sikgv.public.blob.vercel-storage.com
